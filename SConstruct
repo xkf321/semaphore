@@ -1,0 +1,2 @@
+Program("semaphore","semaphore.c")
+
